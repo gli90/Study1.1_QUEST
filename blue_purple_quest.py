@@ -4,6 +4,16 @@ import pandas as pd
 from psychopy import visual, core, event, data, gui
 
 # =====================================================
+# Study 1.1 Pilot v1.0
+# Color discrimination task
+# QUEST for Blue-Purple
+#
+# Author:
+# Gong Li
+#
+# =====================================================
+
+# =====================================================
 # PARTICIPANT INFO
 # =====================================================
 
